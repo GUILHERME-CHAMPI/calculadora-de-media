@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    margin: auto;
+}
+
+
+
+.caixa {
+
+
+    height: 48px;
+    width: 128px;
+    background-color: #468284;
+}
