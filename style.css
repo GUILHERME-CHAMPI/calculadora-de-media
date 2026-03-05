@@ -1,14 +1,22 @@
-body {
+.container {
     display: flex;
+    border: lpx solid #000;  
+    width: 320px;
+    height: 500px;
+    flex-direction: column;
     margin: auto;
+    gap: 12px;
+    padding: 20px;
 }
 
-
-
 .caixa {
+    height: 40px;
 
+  
+}
 
-    height: 48px;
-    width: 128px;
-    background-color: #468284;
+#button {
+    height: 40px;
+    background-color: #2f4f4f;
+    color: #fff
 }
